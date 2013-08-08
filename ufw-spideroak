@@ -1,0 +1,4 @@
+[spideroak]
+title=SpiderOak
+description=We've got your back(up).
+ports=54730/tcp|21327/udp
